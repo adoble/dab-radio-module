@@ -1,0 +1,1 @@
+The wiring diagram can be opened and edited with [draw.io](draw.io)
